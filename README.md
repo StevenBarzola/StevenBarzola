@@ -1,16 +1,17 @@
 # Mi sitio personal 
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis 
-proyectos y mis intereses. 
+Hola, este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis 
+proyectos y sobre lo que he aprendido con ellos. 
 ## Contenido 
 * [Información personal](#información-personal) 
 * [Proyectos](#proyectos) 
-* [Intereses](#intereses) 
+* [Tecnologías aprendidas](#tecnologías-aprendidas) 
 ## Información personal 
-* Nombre: [Tu nombre] 
-* Ocupación: [Tu ocupación] 
-* Lugar de residencia: [Tu lugar de residencia] 
-* Sitio web: [Tu sitio web] 
+* Nombre: [Barzola De La O Steven Ariel] 
+* Ocupación: [Estudiante]
+* Institución: [Escuela Superior Politécnica del Litoral]
+* Correo institucional: starbarz@espol.edu.ec
+* Nacionalidad: [Ecuatoriana]  
 ## Proyectos 
 * [Lista de tus proyectos] 
-## Intereses 
+## Tecnologías aprendidas 
 * [Lista de tus intereses]
