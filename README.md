@@ -12,7 +12,7 @@ Hola, este sitio funciona como un portafolio personal en línea donde podrás en
 * Nacionalidad: Ecuatoriana
 ## Proyectos 
 * Proyecto 1: [POO-P3-G03](https://github.com/StevenBarzola/POO-P3-G03.git)
-<img src="ImagesProjects/P1c.png" alt="Imagen del proyecto 1 n1" width="800"/>
+
 ![Imagen del proyecto 1 n2](ImagesProjects/P1b.png)
 ![Imagen del proyecto 1 n3](ImagesProjects/P1a.png)
 * Proyecto 2: [ED-PAO1-2024-P1-6](https://github.com/lolothens-e/ED-PAO1-2024-P1-6.git)
