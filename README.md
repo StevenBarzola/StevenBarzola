@@ -21,7 +21,7 @@ Hola, este sitio funciona como un portafolio personal en línea donde podrás en
 
 * __ReAuto:__ [ED-PAO1-2024-P1-6](https://github.com/lolothens-e/ED-PAO1-2024-P1-6.git)  
   __Descripción ->__ Simulación de una plataforma para la compra y venta de vehículos usados en Ecuador. Con fines académicos para el curso Estructura de Datos  
-  __Tecnologías ->__ Java y JavaFX (Apache NetBeans IDE 19), y Scene Builder
+  __Tecnologías ->__ Java y JavaFX (Apache NetBeans IDE 19), y Scene Builder  
   __Funcionalidades ->__ Agregación y eliminación de vehículos (solo motos y autos) para la venta o compra de estos respectivamente ; Filtro de búsquedas ; Sistema de login
 <img src="ImagesProjects/P2b.png" alt="Imagen del proyecto 2 n1" width="700"/>
 <img src="ImagesProjects/P2a.png" alt="Imagen del proyecto 2 n2" width="700"/>
