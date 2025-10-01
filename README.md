@@ -31,4 +31,8 @@ Tecnologías -> Java y JavaFX (Apache NetBeans IDE 19), y Scene Builder
 <img src="ImagesProjects/P3b.png" alt="Imagen del proyecto 3 n2" width="700"/>
 
 ## Tecnologías 
-* [Lista de tus intereses]
+Herramientas como el lenguajes de programación, frameworks y librerías aprendidas:
+__Lenguajes de Programación:__ Java (lenguaje más usado), Python y C
+__Frameworks/librerías:__ Numpy (python), JavaFX (Java)
+__Plataformas/IDE:__ GitHub, Figma, Eclipse, NetBeans, SceneBuilder, Visual Paradigm, MySQL, PyCharm Community
+
