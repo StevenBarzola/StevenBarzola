@@ -27,9 +27,9 @@ Hola, este sitio funciona como un portafolio personal en línea donde podrás en
 <img src="ImagesProjects/P2a.png" alt="Imagen del proyecto 2 n2" width="700"/>
 
 * __Animal Instincts:__ [ED-PAO1-2024-P2-6](https://github.com/lolothens-e/ED-PAO1-2024-P2-6.git)  
-  __Descripción__ -> Aplicación recreativa sobre adivinar un animal en base a sus características a través del uso de árboles binarios. Con fines académicos para el curso Estructura de Datos.   
-  __Tecnologías__ -> Java y JavaFX (Apache NetBeans IDE 19), y Scene Builder.  
-  __Funcionalidades ->__ Dos modos de juegos diferentes, en el modo clásico la computadora debe adivinar el animal, mientras que en la trivia es el usuario quien pone a prueba sus conocimientos sobre lo que sabe   del animal) ; Retroalimentación de resultados durantes y después del juego.
+  __Descripción ->__ Aplicación recreativa sobre adivinar un animal en base a sus características a través del uso de árboles binarios. Con fines académicos para el curso Estructura de Datos.   
+  __Tecnologías ->__ Java y JavaFX (Apache NetBeans IDE 19), y Scene Builder.  
+  __Funcionalidades ->__ Dos modos de juegos diferentes, en el modo clásico la computadora debe adivinar el animal, mientras que en la trivia es el usuario quien pone a prueba sus conocimientos sobre lo que sabe   del animal) ; Retroalimentación de resultados durantes y después del juego.  
 <img src="ImagesProjects/P3a.png" alt="Imagen del proyecto 3 n1" width="700"/>
 <img src="ImagesProjects/P3b.png" alt="Imagen del proyecto 3 n2" width="700"/>
 
